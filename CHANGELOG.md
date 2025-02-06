@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.2...ui-icons-v0.0.3) (2025-02-06)
+
+
+### Features
+
+* add minus icon ([40743bf](https://github.com/odigos-io/ui-icons/commit/40743bfa0de92e976d6e7ebc0c69392ccc5d6e89))
+
 ## [0.0.2](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.1...ui-icons-v0.0.2) (2025-02-03)
 
 
