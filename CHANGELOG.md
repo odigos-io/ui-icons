@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.5](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.4...ui-icons-v0.0.5) (2025-02-06)
+
+
+### Bug Fixes
+
+* peer deps ([ed2bbe4](https://github.com/odigos-io/ui-icons/commit/ed2bbe464e8449c4c383b89c7e016d9112fa599c))
+
 ## [0.0.4](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.3...ui-icons-v0.0.4) (2025-02-06)
 
 
