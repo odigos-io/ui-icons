@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.3...ui-icons-v0.0.4) (2025-02-06)
+
+
+### Features
+
+* use "preview" for storybook stories ([72a1adf](https://github.com/odigos-io/ui-icons/commit/72a1adf7194e50441dd74de11f77310f12972314))
+
 ## [0.0.3](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.2...ui-icons-v0.0.3) (2025-02-06)
 
 
