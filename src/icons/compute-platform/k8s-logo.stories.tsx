@@ -1,37 +1,17 @@
-import React, { useEffect } from 'react'
-import { type StoryFn, type StoryObj } from '@storybook/react'
-import { Theme } from '@odigos/ui-theme'
-import { type SVG } from '../../@types'
+import React from 'react'
 import { K8sLogo } from '.'
-
-interface Props extends SVG {
-  darkMode: boolean
-}
+import { type SVG } from '../../@types'
+import { type StoryFn } from '@storybook/react'
 
 export default {
-  title: 'Compute Platform/K8s',
+  title: 'Compute Platform/K8sLogo',
   component: K8sLogo,
 }
 
-// Create a master template for mapping props to render
-// @ts-ignore
-const Template: StoryFn<Props> = ({ darkMode, ...props }) => {
-  useEffect(() => {
-    document.body.style.backgroundColor = darkMode ? '#000' : '#fff'
-  }, [darkMode])
-
-  return (
-    <Theme.Provider darkMode={darkMode}>
-      <K8sLogo {...props} />
-    </Theme.Provider>
-  )
+export const Default: StoryFn<SVG> = (props) => {
+  return <K8sLogo {...props} />
 }
 
-// Reuse that template for creating different stories
-export const Default: StoryObj<Props> = Template.bind({})
-
 Default.args = {
-  // @ts-ignore
-  darkMode: true,
   size: 50,
 }
