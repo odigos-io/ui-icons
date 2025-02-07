@@ -22,12 +22,12 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@odigos/ui-theme": "^0.0.11",
+    "@odigos/ui-theme": "^0.0.12",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "dependencies": {
-    "@odigos/ui-theme": "^0.0.11",
+    "@odigos/ui-theme": "^0.0.12",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -36,7 +36,7 @@
     "@babel/preset-env": "^7.26.7",
     "@babel/preset-react": "^7.26.3",
     "@babel/preset-typescript": "^7.26.0",
-    "@odigos/ui-components": "^0.0.50",
+    "@odigos/ui-components": "^0.0.53",
     "@rollup/plugin-commonjs": "^28.0.2",
     "@rollup/plugin-node-resolve": "^16.0.0",
     "@storybook/addon-essentials": "^8.5.3",
