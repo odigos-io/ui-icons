@@ -1163,13 +1163,13 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@odigos/ui-components@^0.0.49":
-  version "0.0.49"
-  resolved "https://registry.yarnpkg.com/@odigos/ui-components/-/ui-components-0.0.49.tgz#1b63a58156a50cc0991fab421367172641b0d1f6"
-  integrity sha512-qq6V8TlfEfVH2utwSryah2GUm9yiMXbF0u33GV3+b0NOABd4mk6NLoBaSFiXN3LkM8TocRxmjD1kDj5Q1W/zYA==
+"@odigos/ui-components@^0.0.50":
+  version "0.0.50"
+  resolved "https://registry.yarnpkg.com/@odigos/ui-components/-/ui-components-0.0.50.tgz#5eb82e8af6e92c21a4cd24e0eda57a69b8069881"
+  integrity sha512-XKqLh4LQILQsz28VxaxlagpKStRiktvd5fzkMkWwSp0DDYG8z4ZDPxI5+Evfv1Tbxo3/ATvThIrKQAVuiQywUg==
   dependencies:
-    "@odigos/ui-icons" "^0.0.7"
-    "@odigos/ui-theme" "^0.0.7"
+    "@odigos/ui-icons" "^0.0.8"
+    "@odigos/ui-theme" "^0.0.8"
     "@odigos/ui-utils" "^0.0.11"
     prism-react-renderer "^2.4.1"
     react "^19.0.0"
@@ -1186,19 +1186,19 @@
     react-dom "^19.0.0"
     styled-components "^6.1.15"
 
-"@odigos/ui-icons@^0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@odigos/ui-icons/-/ui-icons-0.0.7.tgz#959d34b66a990fdbdd7f25258c4d55a93dc3e6b5"
-  integrity sha512-74sMXgtvFTJw/KMY4scy5/UBYwyqrFAAVH3fA80kVVpGvI7+MVKziYzixms1Ptn16IGL2ruqy3rFG3uyx5mW3g==
+"@odigos/ui-icons@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@odigos/ui-icons/-/ui-icons-0.0.8.tgz#1deefb9e7379d14ee32a42e07976532e6c82b956"
+  integrity sha512-TwM/e4/EcSxGdRRKNRZhUl7EZdgHPvEd7qy7+p29m2/03Xetkoy1IAo3Tr92jM7omUU8FRXEFIdAKEzSdtFIXA==
   dependencies:
-    "@odigos/ui-theme" "^0.0.7"
+    "@odigos/ui-theme" "^0.0.8"
     react "^19.0.0"
     react-dom "^19.0.0"
 
-"@odigos/ui-theme@^0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@odigos/ui-theme/-/ui-theme-0.0.7.tgz#287ab109a5fa232b9b3b30a6f05838b4d39007c2"
-  integrity sha512-gCR3Q0DAk8mRNgDMwH453IOqZOKITyAq9Yc9panByIMV6LMMhQaOV45PwGjlX4dX8OuGL/F0AYS747ojlo5y4Q==
+"@odigos/ui-theme@^0.0.11":
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/@odigos/ui-theme/-/ui-theme-0.0.11.tgz#deb7114694f80a744155a6aca5e11fe1f44315c1"
+  integrity sha512-u0CsHR39cGTjUBoucZsagHO9rQIScW4CDrArQd1DmLVZavkTytbuvp9m2lsLl6ZXS48DLetkXWRLJaSOfWa6CA==
   dependencies:
     react "^19.0.0"
     react-dom "^19.0.0"
