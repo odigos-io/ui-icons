@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.9](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.8...ui-icons-v0.0.9) (2025-02-07)
+
+
+### Bug Fixes
+
+* theme deps ([248d0f0](https://github.com/odigos-io/ui-icons/commit/248d0f029c2ff831d3f327b6d190c2b108a6ad12))
+
 ## [0.0.8](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.7...ui-icons-v0.0.8) (2025-02-07)
 
 
