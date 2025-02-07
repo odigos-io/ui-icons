@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.10](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.9...ui-icons-v0.0.10) (2025-02-07)
+
+
+### Features
+
+* add command icon ([51819cf](https://github.com/odigos-io/ui-icons/commit/51819cf6dbefba956cc6e4b4aeb956e664da7b5d))
+* bump deps ([75e03bd](https://github.com/odigos-io/ui-icons/commit/75e03bd013fec4f65c37cbffd85be37f80045f86))
+
 ## [0.0.9](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.8...ui-icons-v0.0.9) (2025-02-07)
 
 
