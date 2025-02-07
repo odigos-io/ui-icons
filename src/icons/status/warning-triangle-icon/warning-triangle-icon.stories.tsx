@@ -4,7 +4,7 @@ import type { SVG } from '../../../@types'
 import type { StoryFn } from '@storybook/react'
 
 export default {
-  title: 'Common/WarningTriangleIcon',
+  title: 'Status/WarningTriangleIcon',
   component: WarningTriangleIcon,
 }
 

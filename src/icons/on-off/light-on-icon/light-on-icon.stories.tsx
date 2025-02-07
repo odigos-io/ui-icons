@@ -4,7 +4,7 @@ import type { SVG } from '../../../@types'
 import type { StoryFn } from '@storybook/react'
 
 export default {
-  title: 'Common/LightOnIcon',
+  title: 'On-Off/LightOnIcon',
   component: LightOnIcon,
 }
 
