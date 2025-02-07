@@ -1,5 +1,7 @@
-export * from './add-cluster-info-icon';
-export * from './delete-attribute-icon';
-export * from './pii-masking-icon';
-export * from './rename-attribute-icon';
-export * from './sampler-icon';
+// Exports should point at the index files, to exclude Storybook stories
+
+export * from './add-cluster-info-icon/index'
+export * from './delete-attribute-icon/index'
+export * from './pii-masking-icon/index'
+export * from './rename-attribute-icon/index'
+export * from './sampler-icon/index'
