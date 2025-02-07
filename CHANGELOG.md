@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.7](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.6...ui-icons-v0.0.7) (2025-02-07)
+
+
+### Bug Fixes
+
+* storybook preview ([c940fed](https://github.com/odigos-io/ui-icons/commit/c940fed5c88a4906252f4ab5bca7885a0992098d))
+
 ## [0.0.6](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.5...ui-icons-v0.0.6) (2025-02-07)
 
 
