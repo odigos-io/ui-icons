@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.8](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.7...ui-icons-v0.0.8) (2025-02-07)
+
+
+### Bug Fixes
+
+* storybook categories ([92736b8](https://github.com/odigos-io/ui-icons/commit/92736b8a37460ca95628e1c3eed549c0c97d3a7f))
+* toggle dark in stories ([3b46a5f](https://github.com/odigos-io/ui-icons/commit/3b46a5fd16e26141fdb7a6ee4a6280c894d301b0))
+
 ## [0.0.7](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.6...ui-icons-v0.0.7) (2025-02-07)
 
 
