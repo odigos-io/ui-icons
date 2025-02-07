@@ -3,6 +3,7 @@
 export * from './arrow-icon/index'
 export * from './code-brackets-icon/index'
 export * from './code-icon/index'
+export * from './command-icon/index'
 export * from './copy-icon/index'
 export * from './edit-icon/index'
 export * from './extend-arrow-icon/index'
