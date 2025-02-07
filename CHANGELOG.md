@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.6](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.5...ui-icons-v0.0.6) (2025-02-07)
+
+
+### Features
+
+* refactor lib ([24ce8fe](https://github.com/odigos-io/ui-icons/commit/24ce8feb2f78e0d1e895da995e58431681332c38))
+
+
+### Bug Fixes
+
+* build error ([5e446a0](https://github.com/odigos-io/ui-icons/commit/5e446a0b7a9203d6428272c823c4b2fcbed64dd5))
+
 ## [0.0.5](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.4...ui-icons-v0.0.5) (2025-02-06)
 
 
