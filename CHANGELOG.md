@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.12](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.11...ui-icons-v0.0.12) (2025-02-10)
+
+
+### Bug Fixes
+
+* styled components errors ([1a55760](https://github.com/odigos-io/ui-icons/commit/1a55760df32621bc7b47ec5e3a02e5da6cb368c4))
+
 ## [0.0.11](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.10...ui-icons-v0.0.11) (2025-02-10)
 
 
