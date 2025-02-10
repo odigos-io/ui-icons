@@ -22,21 +22,23 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@odigos/ui-theme": "^0.0.15",
+    "@odigos/ui-theme": "^0.0.16",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "styled-components": "^6.1.15"
   },
   "dependencies": {
-    "@odigos/ui-theme": "^0.0.15",
+    "@odigos/ui-theme": "^0.0.16",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "styled-components": "^6.1.15"
   },
   "devDependencies": {
     "@babel/core": "^7.26.8",
     "@babel/preset-env": "^7.26.8",
     "@babel/preset-react": "^7.26.3",
     "@babel/preset-typescript": "^7.26.0",
-    "@odigos/ui-components": "^0.0.57",
+    "@odigos/ui-components": "^0.0.58",
     "@rollup/plugin-commonjs": "^28.0.2",
     "@rollup/plugin-node-resolve": "^16.0.0",
     "@storybook/addon-essentials": "^8.5.3",
@@ -49,6 +51,7 @@
     "@typescript-eslint/eslint-plugin": "^8.23.0",
     "@typescript-eslint/parser": "^8.23.0",
     "babel-loader": "^9.2.1",
+    "babel-plugin-styled-components": "^2.1.4",
     "eslint": "^9.20.0",
     "eslint-plugin-react": "^7.37.4",
     "eslint-plugin-storybook": "^0.11.2",
