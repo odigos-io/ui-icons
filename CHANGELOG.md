@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.11](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.10...ui-icons-v0.0.11) (2025-02-10)
+
+
+### Features
+
+* kill styled-components ([89cc411](https://github.com/odigos-io/ui-icons/commit/89cc4111c01ff25aba9d9091b86981918babcd72))
+
 ## [0.0.10](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.9...ui-icons-v0.0.10) (2025-02-07)
 
 
