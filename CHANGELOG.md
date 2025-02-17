@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.13](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.12...ui-icons-v0.0.13) (2025-02-17)
+
+
+### Features
+
+* add VM logo ([6a31698](https://github.com/odigos-io/ui-icons/commit/6a316981ec1c9c81bb7872667d0c93bfd874d9c8))
+
 ## [0.0.12](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.11...ui-icons-v0.0.12) (2025-02-10)
 
 
