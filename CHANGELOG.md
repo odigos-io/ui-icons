@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.14](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.13...ui-icons-v0.0.14) (2025-03-04)
+
+
+### Features
+
+* add sort-arrows icon ([eb8dd97](https://github.com/odigos-io/ui-icons/commit/eb8dd977a8c168fd161343b4cccd2debee10722f))
+
 ## [0.0.13](https://github.com/odigos-io/ui-icons/compare/ui-icons-v0.0.12...ui-icons-v0.0.13) (2025-02-17)
 
 
